@@ -5,3 +5,5 @@ cd ls mv rm cp
 const constant常量
 c 每一行后面加 ;
 odd even  num%2==0
+&& AND  || OR
+loop for(int i=0;i<4;i++)
