@@ -1,7 +1,7 @@
 Array int arr[5] intarr[5]={1,2,3,4,5}
 for(int i=0;i<5;i++)
 clang -o hello hello.c
-
+make hello:创建一个hello.c文件
 数组就是：
 一块连续的内存空间，用来存放多个同类型的数据。
 数组是从 0 开始计数的
