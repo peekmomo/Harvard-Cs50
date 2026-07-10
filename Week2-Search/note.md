@@ -3,6 +3,8 @@ for(int i=0;i<5;i++)
 clang -o hello hello.c
 make hello:创建一个hello.c文件
 rm 移除文件
+1byte=8bits
+int scores[4]
 数组就是：
 一块连续的内存空间，用来存放多个同类型的数据。
 数组是从 0 开始计数的
