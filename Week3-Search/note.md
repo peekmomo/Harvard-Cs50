@@ -12,4 +12,13 @@ Search
     Search(0,middle-1)
  }
 复杂度 O(log n)
+strcmp:字符串比较函数 0  positive negative
+structure: 结构类型 里面可以存储不同类型的值
 冒泡排序 ：
+
+
+
+
+
+
+
