@@ -15,7 +15,7 @@ Search
 strcmp:字符串比较函数 0  positive negative
 structure: 结构类型 里面可以存储不同类型的值
 sort：按照规定的顺序进行排序 先找到最小的或者最大的 再找到次小的或者次大的
-recursion:
+recursion:递归 方法递归调用本身
 冒泡排序 ：
 
 
