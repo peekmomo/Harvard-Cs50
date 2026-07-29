@@ -8,3 +8,4 @@ hello.c->预处理->编译->汇编->链接->hello(机器码)
 hello.py->Python解释器->Python字节码->虚拟机执行
 
 python 默认input输入的值为string 烈性要求前面加int等 int function
+
