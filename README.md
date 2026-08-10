@@ -13,13 +13,13 @@
 - [x] **Week 0: Scratch** —— 编程初体验，逻辑思维建立 🎮
 - [x] **Week 1: C** —— 深入底层，向语法圣殿进发 💻
 - [x] **Week 2: Arrays** —— 看看数据在内存里是怎么排排坐的 📊
-- [ ] **Week 3: Algorithms** —— 经典算法大作战（大 O 表示法、检索与排序）🕵️‍♂️
-- [ ] **Week 4: Memory** —— 传说中的“指针深水区”，死磕到底！🧠
-- [ ] **Week 5: Data Structures** —— 链表、树、哈希表，解锁高级内功 🌲
-- [ ] **Week 6: Python** —— 降维打击！体验现代语言的丝滑 🐍
-- [ ] **Week 7: SQL** —— 玩转数据库，数据增删改查的基本功 🗄️
-- [ ] **Week 8: HTML, CSS, JavaScript** —— 踏入前端大门，让代码长出漂亮的脸蛋 🌐
-- [ ] **Week 9: Flask / Web** —— 真正的全栈串联，前后端打通 ⚡
+- [x] **Week 3: Algorithms** —— 经典算法大作战（大 O 表示法、检索与排序）🕵️‍♂️
+- [x] **Week 4: Memory** —— 传说中的“指针深水区”，死磕到底！🧠
+- [x] **Week 5: Data Structures** —— 链表、树、哈希表，解锁高级内功 🌲
+- [x] **Week 6: Python** —— 降维打击！体验现代语言的丝滑 🐍
+- [x] **Week 7: SQL** —— 玩转数据库，数据增删改查的基本功 🗄️
+- [x] **Week 8: HTML, CSS, JavaScript** —— 踏入前端大门，让代码长出漂亮的脸蛋 🌐
+- [] **Week 9: Flask / Web** —— 真正的全栈串联，前后端打通 ⚡
 - [ ] **Week 10: CyberSecurity / Emoji** —— 拓展视野 🔒
 - [ ] **🏆 Final Project** —— 做出属于我自己的独立作品！🔥
 
