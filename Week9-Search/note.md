@@ -7,3 +7,6 @@ render_template()
 request.form
 action method
 request.args
+{% extends  %}
+{% block body %}
+{% endblock %}
