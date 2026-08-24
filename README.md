@@ -19,8 +19,8 @@
 - [x] **Week 6: Python** —— 降维打击！体验现代语言的丝滑 🐍
 - [x] **Week 7: SQL** —— 玩转数据库，数据增删改查的基本功 🗄️
 - [x] **Week 8: HTML, CSS, JavaScript** —— 踏入前端大门，让代码长出漂亮的脸蛋 🌐
-- [] **Week 9: Flask / Web** —— 真正的全栈串联，前后端打通 ⚡
-- [ ] **Week 10: CyberSecurity / Emoji** —— 拓展视野 🔒
+- [×] **Week 9: Flask / Web** —— 真正的全栈串联，前后端打通 ⚡
+- [× ] **Week 10: CyberSecurity / Emoji** —— 拓展视野 🔒
 - [ ] **🏆 Final Project** —— 做出属于我自己的独立作品！🔥
 
 ---
